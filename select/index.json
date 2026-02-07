@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Perfect Night (Slowed + Reverb ver.)",
+  "base_artist": "LE SSERAFIM",
+  "createdAt": "2026-02-07T12:26:23.313117Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Perfect Night (Slowed + Reverb ver.)",
+      "artist": "LE SSERAFIM",
+      "has_synced": false,
+      "path": "select/01_Perfect_Night_(Slowed_+_Reverb_ver.)_LE_SSERAFIM.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Perfect Night (Slowed ＋ Reverb Ver.)",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/02_Perfect_Night_(Slowed_+_Reverb_Ver.)_LE_SSERAFIM.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Perfect Night (To Say Goodbye)",
+      "artist": "Olly Murs",
+      "has_synced": true,
+      "path": "select/03_Perfect_Night_(To_Say_Goodbye)_Olly_Murs.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Perfect Night",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/04_Perfect_Night_LE_SSERAFIM.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Perfect Night",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/05_Perfect_Night_LE_SSERAFIM.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Perfect Night",
+      "artist": "Insane Clown Posse",
+      "has_synced": true,
+      "path": "select/06_The_Perfect_Night_Insane_Clown_Posse.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Perfect Night",
+      "artist": "LE SSERAFIM (르세라핌)",
+      "has_synced": true,
+      "path": "select/07_Perfect_Night_LE_SSERAFIM_(르세라핌).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Perfect Night",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/08_Perfect_Night_LE_SSERAFIM.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Perfect Night",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/09_Perfect_Night_LE_SSERAFIM.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Perfect Night",
+      "artist": "Home Town Hero",
+      "has_synced": true,
+      "path": "select/10_Perfect_Night_Home_Town_Hero.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Perfect Night (Sped Up ver.)",
+      "artist": "LE SSERAFIM",
+      "has_synced": false,
+      "path": "select/11_Perfect_Night_(Sped_Up_ver.)_LE_SSERAFIM.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Perfect Night",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/12_Perfect_Night_LE_SSERAFIM.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Perfect Night (Holiday Remix)",
+      "artist": "LE SSERAFIM",
+      "has_synced": false,
+      "path": "select/13_Perfect_Night_(Holiday_Remix)_LE_SSERAFIM.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Perfect Night",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/14_Perfect_Night_LE_SSERAFIM.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Perfect Night",
+      "artist": "Haste the Day",
+      "has_synced": true,
+      "path": "select/15_The_Perfect_Night_Haste_the_Day.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Perfect Night (To Say Goodbye)",
+      "artist": "Olly Murs",
+      "has_synced": true,
+      "path": "select/16_Perfect_Night_(To_Say_Goodbye)_Olly_Murs.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Perfect Night",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/17_Perfect_Night_LE_SSERAFIM.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Perfect Night",
+      "artist": "LE SSERAFIM",
+      "has_synced": false,
+      "path": "select/pl_01_Perfect_Night_LE_SSERAFIM.txt"
+    }
+  ]
+}
